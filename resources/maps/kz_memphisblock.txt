@@ -1,0 +1,22 @@
+___________kz_memphisblock___________
+__________Map made by spr1n__________
+
+Memphis is the ancient egypt capital.
+Climb up through tombs to the palace.
+Challenge: Easy
+Can you find all the secrets?
+
+NB! Detailed textures recommended!
+ r_detailtexturessupported 1
+ r_detailtextures 1
+
+Servers might crash with error:
+ "ED_Alloc No Free Edicts"
+to fix this, start server with:
+ "-num_edicts 2047" (launch options)
+
+
+________________Visit________________
+___________xtreme-jumps.eu___________
+___________www.insilio.org___________
+____________kz-baltic.eu_____________
